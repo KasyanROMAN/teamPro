@@ -13,4 +13,7 @@ checkage(){
         console.log('Маленький человек')
     }
 }
+countStr(){
+    console.log(this.name.length)
+}
 }
