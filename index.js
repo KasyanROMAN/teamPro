@@ -25,4 +25,8 @@ getNumberBetween(){
         console.log()
     }
 }
+onlyname(){
+    console.log(this.name)
+}
+
 }
