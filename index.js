@@ -1,1 +1,4 @@
-console.log('Change1')
+class Person{
+    name ='Danya'
+    age = 12
+}
