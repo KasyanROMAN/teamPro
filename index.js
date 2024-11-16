@@ -32,3 +32,9 @@ onlyage(){
     console.log(this.age)
 }
 }
+let a = new Person()
+a.checkage()
+a.countStr()
+a.getData()
+a.getNumberBetween()
+a.gettype()
