@@ -20,4 +20,9 @@ gettype(){
 countStr(){
     console.log(this.name.length)
 }
+getNumberBetween(){
+    for(let i = 10; i < 21; i++){
+        console.log()
+    }
+}
 }
