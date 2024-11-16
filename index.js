@@ -28,5 +28,7 @@ getNumberBetween(){
 onlyname(){
     console.log(this.name)
 }
-
+onlyage(){
+    console.log(this.age)
+}
 }
