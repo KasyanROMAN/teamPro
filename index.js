@@ -12,6 +12,10 @@ checkage(){
     else{
         console.log('Маленький человек')
     }
+
+}
+gettype(){
+    console.log(typeof this.name, typeof this.age)
 }
 countStr(){
     console.log(this.name.length)
